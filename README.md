@@ -12,7 +12,7 @@
 
 <h1 align="center">Kimai - time-tracker</h1>
 
-Kimai is a professional grade time-tracking application, free and open-source. 
+Kimai is hahahaha. 
 It handles use-cases of freelancers as well as companies with dozens or hundreds of users. 
 Kimai was build to track your project times and ships with many advanced features, including but not limited to:
 
